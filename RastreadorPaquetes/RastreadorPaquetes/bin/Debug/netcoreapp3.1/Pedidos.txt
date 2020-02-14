@@ -1,0 +1,2 @@
+Ticul,Motul,80,DHL,barco,23-01-2020 12:00:00
+China,Cancún,446400,DHL,Avión,23-05-2020 08:00:00

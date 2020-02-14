@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RastreadorPaquetes", "RastreadorPaquetes\RastreadorPaquetes.csproj", "{F8FE2EFE-7E30-4CEB-BD98-135F753A271A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{E9CB6213-50C0-4602-8CA7-044723900177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RastreadorPaquetesTest", "RastreadorPaquetesTest\RastreadorPaquetesTest.csproj", "{EFAF72DB-DE85-4F12-BCCE-38504D20F695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{318AEF8D-5ECB-402D-9B53-5FF3C5E24EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilidades", "Utilidades\Utilidades.csproj", "{4E1B9072-F222-488C-8420-90507D4F1F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RastreadorPaquetesService", "RastreadorPaquetesService\RastreadorPaquetesService.csproj", "{AD8C06AD-2FAF-4DEA-8777-B467BF5688AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FE2EFE-7E30-4CEB-BD98-135F753A271A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FE2EFE-7E30-4CEB-BD98-135F753A271A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FE2EFE-7E30-4CEB-BD98-135F753A271A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FE2EFE-7E30-4CEB-BD98-135F753A271A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAF72DB-DE85-4F12-BCCE-38504D20F695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAF72DB-DE85-4F12-BCCE-38504D20F695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAF72DB-DE85-4F12-BCCE-38504D20F695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAF72DB-DE85-4F12-BCCE-38504D20F695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318AEF8D-5ECB-402D-9B53-5FF3C5E24EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318AEF8D-5ECB-402D-9B53-5FF3C5E24EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318AEF8D-5ECB-402D-9B53-5FF3C5E24EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318AEF8D-5ECB-402D-9B53-5FF3C5E24EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1B9072-F222-488C-8420-90507D4F1F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1B9072-F222-488C-8420-90507D4F1F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1B9072-F222-488C-8420-90507D4F1F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1B9072-F222-488C-8420-90507D4F1F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8C06AD-2FAF-4DEA-8777-B467BF5688AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8C06AD-2FAF-4DEA-8777-B467BF5688AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8C06AD-2FAF-4DEA-8777-B467BF5688AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8C06AD-2FAF-4DEA-8777-B467BF5688AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFAF72DB-DE85-4F12-BCCE-38504D20F695} = {E9CB6213-50C0-4602-8CA7-044723900177}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A03F2E9-142A-40E2-99D6-414F561CB167}
+	EndGlobalSection
+EndGlobal

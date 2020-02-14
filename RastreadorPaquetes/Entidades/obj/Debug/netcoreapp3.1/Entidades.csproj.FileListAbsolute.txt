@@ -1,0 +1,8 @@
+C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.csprojAssemblyReference.cache
+C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
