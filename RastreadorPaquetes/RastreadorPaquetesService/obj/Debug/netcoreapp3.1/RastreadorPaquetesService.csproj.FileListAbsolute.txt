@@ -11,3 +11,16 @@ C:\Users\fernando.cab\source\repos\RastreadorPaquetes\RastreadorPaquetesService\
 C:\Users\fernando.cab\source\repos\RastreadorPaquetes\RastreadorPaquetesService\obj\Debug\netcoreapp3.1\RastreadorPaquetesService.csproj.CopyComplete
 C:\Users\fernando.cab\source\repos\RastreadorPaquetes\RastreadorPaquetesService\obj\Debug\netcoreapp3.1\RastreadorPaquetesService.dll
 C:\Users\fernando.cab\source\repos\RastreadorPaquetes\RastreadorPaquetesService\obj\Debug\netcoreapp3.1\RastreadorPaquetesService.pdb
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\bin\Debug\netcoreapp3.1\RastreadorPaquetesService.deps.json
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\bin\Debug\netcoreapp3.1\RastreadorPaquetesService.dll
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\bin\Debug\netcoreapp3.1\RastreadorPaquetesService.pdb
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\bin\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\obj\Debug\netcoreapp3.1\RastreadorPaquetesService.csprojAssemblyReference.cache
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\obj\Debug\netcoreapp3.1\RastreadorPaquetesService.AssemblyInfoInputs.cache
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\obj\Debug\netcoreapp3.1\RastreadorPaquetesService.AssemblyInfo.cs
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\obj\Debug\netcoreapp3.1\RastreadorPaquetesService.csproj.CopyComplete
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\obj\Debug\netcoreapp3.1\RastreadorPaquetesService.dll
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\RastreadorPaquetesService\obj\Debug\netcoreapp3.1\RastreadorPaquetesService.pdb

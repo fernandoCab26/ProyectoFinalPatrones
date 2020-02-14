@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetesTest\\RastreadorPaquetesTest.csproj": {}
+    "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetesTest\\RastreadorPaquetesTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetesTest\\RastreadorPaquetesTest.csproj": {
+    "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetesTest\\RastreadorPaquetesTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetesTest\\RastreadorPaquetesTest.csproj",
+        "projectUniqueName": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetesTest\\RastreadorPaquetesTest.csproj",
         "projectName": "RastreadorPaquetesTest",
-        "projectPath": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetesTest\\RastreadorPaquetesTest.csproj",
+        "projectPath": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetesTest\\RastreadorPaquetesTest.csproj",
         "packagesPath": "C:\\Users\\fernando.cab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetesTest\\obj\\",
+        "outputPath": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetesTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

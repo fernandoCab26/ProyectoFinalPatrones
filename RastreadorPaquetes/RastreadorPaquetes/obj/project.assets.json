@@ -124,11 +124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetes\\RastreadorPaquetes.csproj",
+      "projectUniqueName": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetes\\RastreadorPaquetes.csproj",
       "projectName": "RastreadorPaquetes",
-      "projectPath": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetes\\RastreadorPaquetes.csproj",
+      "projectPath": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetes\\RastreadorPaquetes.csproj",
       "packagesPath": "C:\\Users\\fernando.cab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetes\\obj\\",
+      "outputPath": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -148,11 +148,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetesService\\RastreadorPaquetesService.csproj": {
-              "projectPath": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\RastreadorPaquetesService\\RastreadorPaquetesService.csproj"
+            "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetesService\\RastreadorPaquetesService.csproj": {
+              "projectPath": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\RastreadorPaquetesService\\RastreadorPaquetesService.csproj"
             },
-            "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\Utilidades\\Utilidades.csproj": {
-              "projectPath": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\Utilidades\\Utilidades.csproj"
+            "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\Utilidades\\Utilidades.csproj": {
+              "projectPath": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\Utilidades\\Utilidades.csproj"
             }
           }
         }

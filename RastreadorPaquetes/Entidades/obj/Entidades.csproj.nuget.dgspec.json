@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\Entidades\\Entidades.csproj": {}
+    "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\Entidades\\Entidades.csproj": {
+    "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\fernando.cab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fernando.cab\\source\\repos\\RastreadorPaquetes\\Entidades\\obj\\",
+        "outputPath": "C:\\Curso BOT1\\CursoPatrones\\ProyectoFinalPatrones\\RastreadorPaquetes\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
