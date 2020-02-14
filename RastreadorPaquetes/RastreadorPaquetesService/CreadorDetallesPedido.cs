@@ -9,8 +9,8 @@ namespace RastreadorPaquetesService
 {
     public class CreadorDetallesPedido : ICreardorDetallesPedido
     {
-        IManejadorPaqueteria _manejadorPaqueteria;
-        IVerificadorPrecios _verificadorPrecios;
+        private readonly IManejadorPaqueteria _manejadorPaqueteria;
+        private readonly IVerificadorPrecios _verificadorPrecios;
         public CreadorDetallesPedido(IManejadorPaqueteria manejadorPaqueteria, IVerificadorPrecios verificadorPrecios) 
         {
             _manejadorPaqueteria = manejadorPaqueteria;

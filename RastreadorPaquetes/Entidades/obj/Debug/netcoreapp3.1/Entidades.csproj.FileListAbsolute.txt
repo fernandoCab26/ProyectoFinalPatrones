@@ -6,3 +6,11 @@ C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\obj\Debug\netcor
 C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
 C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
 C:\Users\fernando.cab\source\repos\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.csprojAssemblyReference.cache
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Curso BOT1\CursoPatrones\ProyectoFinalPatrones\RastreadorPaquetes\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
